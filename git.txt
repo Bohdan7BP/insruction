@@ -1,0 +1,9 @@
+1. git init - ініціалізує гіт в проекті
+2. git add . - додає всі фалйли(які не ігнорі)
+3. git commit -m "comment"  - дадає коментар до змін, що відбулися
+4. git branch -M main
+5. git remote add origin git@github.com:Bohdan7BP/ToDo.git
+6. git push git@github.com:Bohdan7BP/ToDo.git
+
+7. git clone "ссилка на проект"
+8. git push
