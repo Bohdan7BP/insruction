@@ -5,5 +5,5 @@
 5. git remote add origin git@github.com:Bohdan7BP/ToDo.git
 6. git push git@github.com:Bohdan7BP/ToDo.git
 
-7. git clone "ссилка на проект"
+7. git clone "ссилка на проект" // силка для завантаження проекту вставляємо в сmd автоматично заватнажує зміни
 8. git push
